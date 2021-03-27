@@ -1,7 +1,7 @@
 Here you see the final dataset file and some raw files stored from the middle stages of data extraction.
 **For your analysis, use the final file.** 
 
-The features are:
+The features are:        
 **App:** The name of the application      
 **Category:** The name of the category which app belongs to      
 **Rating:** A number between 0 to 5 that shows how satisfied the users with the app     
