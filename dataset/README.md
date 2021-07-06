@@ -20,5 +20,5 @@ The features are:
 **SellAmount:** Computed based on Price * InstallsNum     
 **Review_Install_Ratio:** Computed based on Reviews divided by InstallsNum to estimate the number of active users for each app  
 ***
-[Hoco](https://github.com/hoco1) Created a Report with [Power bi ](https://app.powerbi.com/links/OGVCUEcktf?ctid=ef74ab9d-7519-4100-a4b7-21a2d07f3069&pbi_source=linkShare)to understand better dataset.  
+[Hoco](https://github.com/hoco1) Created a Report with [Power bi ](https://app.powerbi.com/reportEmbed?reportId=8c55e442-a43f-4543-8bc5-951cd2dded22&autoAuth=true&ctid=ef74ab9d-7519-4100-a4b7-21a2d07f3069&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWNlbnRyYWwtYS1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9)to understand better dataset.  
 Go and enjoy
