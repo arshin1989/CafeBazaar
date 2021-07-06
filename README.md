@@ -8,7 +8,7 @@ I should point out that most of the dataset and analysis output is in Persian.
 ***
 [Hoco](https://github.com/hoco1) Created a Report with [Power bi ](https://app.powerbi.com/reportEmbed?reportId=8c55e442-a43f-4543-8bc5-951cd2dded22&autoAuth=true&ctid=ef74ab9d-7519-4100-a4b7-21a2d07f3069&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWNlbnRyYWwtYS1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9)to understand better dataset. 
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Alt text](https://github.com/hoco1/CafeBazaar/blob/master/img/Screenshot%202021-07-06%20155154.jpg)
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title") 
+![Alt text](https://github.com/hoco1/CafeBazaar/blob/master/img/Screenshot%202021-07-06%20155154.jpg)   
 Go and enjoy
