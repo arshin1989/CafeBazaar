@@ -10,5 +10,5 @@ I should point out that most of the dataset and analysis output is in Persian.
 
 ![Alt text](https://github.com/hoco1/CafeBazaar/blob/master/img/Screenshot%202021-07-06%20155154.jpg)
 
-![Alt text](https://github.com/hoco1/CafeBazaar/blob/master/img/Screenshot%202021-07-06%20155154.jpg)   
+![Alt text](https://github.com/hoco1/CafeBazaar/blob/master/img/Screenshot%202021-07-06%20155142.jpg)   
 Go and enjoy
